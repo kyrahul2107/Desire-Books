@@ -64,9 +64,7 @@ function Freebook() {
         <div>
           <h1 className="font-semibold text-xl pb-2">Free Offered Courses</h1>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Accusantium veritatis alias pariatur ad dolor repudiandae eligendi
-            corporis nulla non suscipit, iure neque earum?
+            At DesireBooks, we believe in the power of learning and self-improvement, which is why we're excited to offer a wide range of free courses designed to help you grow personally and professionally. Whether you're looking to learn new skills, enhance your career, or explore a new hobby, our free courses provide valuable knowledge from top instructors, all at no cost to you!
           </p>
         </div>
 
