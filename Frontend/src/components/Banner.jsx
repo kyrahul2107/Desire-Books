@@ -11,9 +11,7 @@ function Banner() {
               <span className="text-pink-500">new everyday!!!</span>
             </h1>
             <p className="text-sm md:text-xl">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor,
-              et totam. Tempora amet atque expedita, quae corrupti totam sed
-              pariatur corporis at veniam est voluptas animi!
+              Welcome to DesireBooks, your gateway to a world of endless knowledge and captivating stories! Whether you're a curious learner, an avid reader, or someone looking to discover your next great read, DesireBooks has something for everyone.
             </p>
             <label className="input input-bordered flex items-center gap-2">
               <svg

@@ -22,16 +22,10 @@ function Course() {
         <div className="mt-28 items-center justify-center text-center">
           <h1 className="text-2xl  md:text-4xl">
             We're delighted to have you{" "}
-            <span className="text-pink-500"> Here! :)</span>
+            <span className="text-pink-500"> Here</span>
           </h1>
           <p className="mt-12">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro,
-            assumenda? Repellendus, iste corrupti? Tempore laudantium
-            repellendus accusamus accusantium sed architecto odio, nisi expedita
-            quas quidem nesciunt debitis dolore non aspernatur praesentium
-            assumenda sint quibusdam, perspiciatis, explicabo sequi fugiat amet
-            animi eos aut. Nobis quisquam reiciendis sunt quis sed magnam
-            consequatur!
+            At DesireBooks, we go beyond offering just books by providing carefully curated courses to enhance your learning journey. Whether you're looking to develop practical skills, gain academic support, or focus on personal growth, our courses are designed to complement your interests and ambitions. From coding and creative writing to mindfulness and leadership, each course is tailored to help you expand your knowledge and achieve your goals. With DesireBooks, combine the joy of reading with interactive learning to unlock your full potential.
           </p>
           <Link to="/">
             <button className="mt-6 bg-pink-500 text-white px-4 py-2 rounded-md hover:bg-pink-700 duration-300">
